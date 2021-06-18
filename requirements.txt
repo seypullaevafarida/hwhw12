@@ -1,0 +1,8 @@
+aiogram
+seaborn
+pandas
+matplotlib
+random
+numpy
+requests
+bs4
