@@ -1,1 +1,2 @@
-worker: python3 bot_ravsh.py
+pip install -r requirements.txt
+web: python3 bot_ravsh.py
