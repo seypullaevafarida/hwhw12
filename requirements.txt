@@ -1,7 +1,0 @@
-aiogram
-seaborn
-pandas
-matplotlib
-numpy
-requests
-bs4
